@@ -4,3 +4,5 @@ function anyFunction(a, b) {
   if (!a && !b) return true;
   return value;
 }
+
+console.log(anyFunction(1, 2));
