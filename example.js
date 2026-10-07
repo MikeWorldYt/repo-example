@@ -1,6 +1,6 @@
 
 function anyFunction(a, b) {
-  let value = null; 
+  let value = null; // valor null 
   if (!a && !b) return true;
   return value;
 }
